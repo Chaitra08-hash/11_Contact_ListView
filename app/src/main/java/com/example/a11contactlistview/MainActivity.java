@@ -10,7 +10,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity
 {
     ListView ListView1;
-    String[] mobilearray={"Kavya \n 0071027013","Niharika \n 9600000009","Archana M \n 7004698756","Varshitha \n 0171027013","Varsha \n 9620000009","Swathi \n 7858965756","Vidhya \n 0000027013","Pragna \n 9600120009","Raksha \n 7854000056"};
+    String[] mobilearray={"Kavya \n 0071027013","Niharika \n 9600000009","Archana M \n 7004698756","Varshitha \n 0171027013","Varsha \n 9620000009","Swathi \n 7850000056","Vidhya \n 0000027013","Pragna \n 9600100009","Raksha \n 7854000056"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
